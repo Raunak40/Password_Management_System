@@ -24,6 +24,13 @@ The project consists of several **C++ modules**:
 
 ## **Output**
 - **Landing Page**
+  ![Landing Page](images/land.png)
+- **Add Password**
+  ![Add_Password](images/addPass.png)
+- **Functionalities**
+  ![Functionalities](images/otherFunctionalities.png)
+- **Encrypted User Data**
+  ![Data](images/data.png)
 
 ## **Limitations**  
 - **No Multi-Factor Authentication (MFA)**  
