@@ -50,8 +50,12 @@ The project consists of several **C++ modules**:
 2. **Run the Application** and set up a master password.  
 3. **Use the CLI Menu** to store, retrieve, edit, or delete credentials securely.  
 
-## **Contributors**  
-- **Akshit Sadotra**  
-- **Joynti Mahato**  
-- **Priya Kumari Mahato**  
-- **Raunak Raj**  
+## Contributors ✨
+
+Thanks to these amazing contributors:
+
+- [@AkshitSadotra](https://github.com/akshit-123-lab)
+- [@JoyntiMahato](https://github.com/Joynti)
+- [@PriyaMahato](https://github.com/SOhniYo)
+- [@RaunakRaj](https://github.com/Raunak40)
+
