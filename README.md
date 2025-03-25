@@ -23,13 +23,13 @@ The project consists of several **C++ modules**:
 - **OpenSSL Library** (for AES encryption)
 
 ## **Output**
-- **Landing Page**
+### **Landing Page**
   ![Landing Page](images/land.png)
-- **Add Password**
+### **Add Password**
   ![Add_Password](images/addPass.png)
-- **Functionalities**
+### **Functionalities**
   ![Functionalities](images/otherFunctionalities.png)
-- **Encrypted User Data**
+### **Encrypted User Data**
   ![Data](images/data.png)
 
 ## **Limitations**  
